@@ -1,0 +1,24 @@
+{
+  "id": "one_more",
+  "name": "OneMore",
+  "tagline": "Haz siempre una más",
+  "description": "La app de gimnasio definitiva. Crea y personaliza tus rutinas, registra tus pesos y repeticiones y sigue tu progreso día tras día. Controla también tus pasos, calorías y actividad diaria. Completa desafíos, consigue monedas y desbloquea fondos y objetos exclusivos de personalización para tu perfil.",
+  "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Logo/LogoOneMore.png",
+  "version": "1.8.0",
+  "downloads": "50K+",
+  "rating": 4.5,
+  "ratingCount": "8,900",
+  "classification": "+12 años",
+  "apkUrl": "https://github.com/omegaone545/OneMore/releases/latest/download/OneMore.apk",
+  "category": "Salud y fitness",
+  "isFeatured": false,
+  "screenshots": [
+    "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Capturas/primera.png",
+    "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Capturas/segunda.png",
+    "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Capturas/tercera.png",
+    "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Capturas/cuarta.png",
+    "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Capturas/quinta.png"
+    
+  ],
+ "whatsNew": "• Al editar una rutina, los ejercicios muestran la información del entrenamiento\n• Ahora puedes reordenar los ejercicios de un día desde la edición de la rutina\n• Los botones de Añadir ejercicio, Copiar a... y otras acciones ahora pueden desplazarse horizontalmente\n• Ahora puedes exportar tus rutinas a PDF\n• Se han renovado y mejorado múltiples apartados de Configuración"
+}
