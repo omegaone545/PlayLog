@@ -1,10 +1,10 @@
 {
-  "id": "one_more",
-  "name": "OneMore",
-  "tagline": "Haz siempre una más",
-  "description": "La app de gimnasio definitiva. Crea y personaliza tus rutinas, registra tus pesos y repeticiones y sigue tu progreso día tras día. Controla también tus pasos, calorías y actividad diaria. Completa desafíos, consigue monedas y desbloquea fondos y objetos exclusivos de personalización para tu perfil.",
-  "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Logo/LogoOneMore.png",
-  "version": "1.8.0",
+  "id": "playlog",
+  "name": "PlayLog",
+  "tagline": "Tu historial de juegos, siempre contigo",
+  "description": "PlayLog es la aplicación perfecta para llevar un registro de toda tu vida gamer. Organiza tu biblioteca de videojuegos, registra las horas que juegas, puntúa tus títulos favoritos y consulta estadísticas de tu progreso en un solo lugar.\n\nAñade juegos a tu colección, clasifícalos por estado, plataforma o formato, guarda tus sesiones de juego y descubre cuáles son los juegos a los que más tiempo has dedicado. También podrás consultar tus logros, listas personalizadas y un perfil con toda tu actividad.\n\nCon PlayLog tendrás siempre tu historial de juegos, tus valoraciones y tu progreso, todo sincronizado en una experiencia sencilla, rápida y con un diseño pensado para jugadores.",
+  "iconUrl": "https://raw.githubusercontent.com/omegaone545/PlayLog/refs/heads/main/media_1789397415375.jpg",
+  "version": "1.0.0",
   "downloads": "50K+",
   "rating": 4.5,
   "ratingCount": "8,900",
@@ -20,5 +20,5 @@
     "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Capturas/quinta.png"
     
   ],
- "whatsNew": "• Al editar una rutina, los ejercicios muestran la información del entrenamiento\n• Ahora puedes reordenar los ejercicios de un día desde la edición de la rutina\n• Los botones de Añadir ejercicio, Copiar a... y otras acciones ahora pueden desplazarse horizontalmente\n• Ahora puedes exportar tus rutinas a PDF\n• Se han renovado y mejorado múltiples apartados de Configuración"
+ "whatsNew": ""
 }
